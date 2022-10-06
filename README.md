@@ -30,5 +30,6 @@ The dataset has the following target:
 some features in this dataset are categorical, such as Sex or BP and have been encoded to numerical values since klearn Decision Trees does not handle categorical variables.
 
 
-##Roadmap
-##Results and Recommendation
+## Roadmap
+
+## Results and Recommendation
